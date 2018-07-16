@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "autopep8",
+    "python.linting.enabled": false,
+    "python.pythonPath": "D:\\Compiler\\Anaconda3\\envs\\Web\\python.exe"
+}
